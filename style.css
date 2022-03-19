@@ -1,0 +1,19 @@
+.heading
+{
+font-size: 30px !important;
+width: 30%;
+margin: 5px;
+}
+
+a {
+    font-size: 18px !important;
+}
+
+.bg {
+    background-image: url("bg.jpg");
+    background-size: cover;
+}
+canvas {
+    border: 3px red dashed;
+    box-shadow: 5px 5px 15px rgb(76, 76, 235);
+}
