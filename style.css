@@ -16,4 +16,15 @@ a {
 canvas {
     border: 3px red dashed;
     box-shadow: 5px 5px 15px rgb(76, 76, 235);
+    margin-top: 125px;
+}
+#status
+{
+font-size: 20px !important;
+}
+h2 {
+    font-size: medium !important;
+}
+#total_no_of_objects {
+    margin-right: 10px;
 }
